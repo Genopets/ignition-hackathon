@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/telegram</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.977260 0 0 0 0 0.919074 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.933948 0 0 0 0 0.768293 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 1.000000 0 0 0 0 0.786112 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Marketing---Stage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10desktop" transform="translate(-737.000000, -713.000000)">
+            <g id="Social-Icons" transform="translate(627.000000, 710.000000)" filter="url(#filter-1)">
+                <g id="icons/telegram" transform="translate(108.000000, 0.000000)" filter="url(#filter-2)">
+                    <g filter="url(#filter-3)" id="telegram">
+                        <g>
+                            <path d="M17.32,19.4825 C17.5883333,19.6725 17.9341667,19.72 18.2425,19.6033333 C18.5508333,19.4858333 18.7775,19.2225 18.8458333,18.9033333 C19.57,15.5 21.3266667,6.88583333 21.9858333,3.79 C22.0358333,3.55666667 21.9525,3.31416667 21.7691667,3.15833333 C21.5858333,3.0025 21.3316667,2.9575 21.105,3.04166667 C17.6108333,4.335 6.85,8.3725 2.45166667,10 C2.1725,10.1033333 1.99083333,10.3716667 2,10.6658333 C2.01,10.9608333 2.20833333,11.2166667 2.49416667,11.3025 C4.46666667,11.8925 7.05583333,12.7133333 7.05583333,12.7133333 C7.05583333,12.7133333 8.26583333,16.3675 8.89666667,18.2258333 C8.97583333,18.4591667 9.15833333,18.6425 9.39916667,18.7058333 C9.63916667,18.7683333 9.89583333,18.7025 10.075,18.5333333 C11.0883333,17.5766667 12.655,16.0975 12.655,16.0975 C12.655,16.0975 15.6316667,18.28 17.32,19.4825 Z M8.145,12.2516667 L9.54416667,16.8666667 L9.855,13.9441667 C9.855,13.9441667 15.2608333,9.06833333 18.3425,6.28916667 C18.4325,6.2075 18.445,6.07083333 18.37,5.975 C18.2958333,5.87916667 18.1591667,5.85666667 18.0566667,5.92166667 C14.485,8.2025 8.145,12.2516667 8.145,12.2516667 Z" id="telegram-1" fill="#000000"></path>
+                            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

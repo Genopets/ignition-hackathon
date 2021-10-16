@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/discord</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.977260 0 0 0 0 0.919074 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.933948 0 0 0 0 0.768293 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 1.000000 0 0 0 0 0.786112 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Marketing---Stage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10desktop" transform="translate(-684.000000, -712.000000)">
+            <g id="Social-Icons" transform="translate(627.000000, 710.000000)" filter="url(#filter-1)">
+                <g id="icons/discord" transform="translate(54.000000, 0.000000)" filter="url(#filter-2)">
+                    <g id="discord">
+                        <g filter="url(#filter-3)" id="iconmonstr-discord-1">
+                            <g transform="translate(3.000000, 2.000000)">
+                                <path d="M15.45,-4.4408921e-15 C16.58,-4.4408921e-15 17.5,0.92 17.5,2.06 L17.5,20 L15.35,18.1 L14.14,16.98 L12.86,15.79 L13.39,17.64 L2.05,17.64 C0.92,17.64 0,16.72 0,15.58 L0,2.06 C0,0.92 0.92,-4.4408921e-15 2.05,-4.4408921e-15 L15.45,-4.4408921e-15 L15.45,-4.4408921e-15 Z M11.59,13.06 C13.8,12.99 14.65,11.54 14.65,11.54 C14.65,8.32 13.21,5.71 13.21,5.71 C11.77,4.63 10.4,4.6599169 10.4,4.6599169 L10.26,4.82 C11.96,5.34 12.75,6.09 12.75,6.09 C11.71,5.52 10.69,5.24 9.74,5.13 C9.02,5.05 8.33,5.07 7.72,5.15 L7.55,5.17 C7.2,5.2 6.35,5.33 5.28,5.8 C4.91,5.97 4.69,6.09 4.69,6.09 C4.69,6.09 5.52,5.3 7.32,4.78 L7.22,4.6599169 C7.22,4.6599169 5.85,4.63 4.41,5.71 C4.41,5.71 2.97,8.32 2.97,11.54 C2.97,11.54 3.81,12.99 6.02,13.06 C6.02,13.06 6.39,12.61 6.69,12.23 C5.42,11.85 4.94,11.05 4.94,11.05 L5.22,11.22 L5.26,11.25 L5.29916667,11.2725 L5.31083333,11.2775 L5.35,11.3 C5.6,11.44 5.85,11.55 6.08,11.64 C6.49,11.8 6.98,11.96 7.55,12.07 C8.3,12.21 9.18,12.26 10.14,12.08 C10.61,12 11.09,11.86 11.59,11.65 C11.94,11.52 12.33,11.33 12.74,11.06 C12.74,11.06 12.24,11.88 10.93,12.25 C11.23,12.63 11.59,13.06 11.59,13.06 L11.59,13.06 Z M6.94,8.39 C6.37,8.39 5.92,8.89 5.92,9.5 C5.92,10.11 6.38,10.61 6.94,10.61 C7.51,10.61 7.96,10.11 7.96,9.5 C7.97,8.89 7.51,8.39 6.94,8.39 Z M10.59,8.39 C10.02,8.39 9.57,8.89 9.57,9.5 C9.57,10.11 10.03,10.61 10.59,10.61 C11.16,10.61 11.61,10.11 11.61,9.5 C11.61,8.89 11.16,8.39 10.59,8.39 Z" id="Shape" fill="#000000"></path>
+                            </g>
+                        </g>
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,83 @@
+{
+  "name": "genopets-app",
+  "description": "Genopets is an alternate reality, massive multiplayer online game that gamifies physical, mental, and emotional health with financial and social rewards through non-fungible tokens.",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Albert Chen <albert@genopets.me> (@mralbertchen)",
+  "license": "UNLICENSED",
+  "keywords": [
+    "nextjs",
+    "starter",
+    "typescript"
+  ],
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc",
+    "lint": "eslint --ignore-path .gitignore \"src/**/*.+(ts|js|tsx)\"",
+    "format": "prettier --ignore-path .gitignore \"src/**/*.+(ts|js|tsx)\" --write",
+    "commit": "cz",
+    "storybook": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public"
+  },
+  "lint-staged": {
+    "./src/**/*.{ts,js,jsx,tsx}": [
+      "yarn lint --fix",
+      "yarn format"
+    ]
+  },
+  "dependencies": {
+    "@emotion/react": "11.4.0",
+    "@emotion/styled": "11.3.0",
+    "@react-three/drei": "7.0.2",
+    "@react-three/fiber": "7.0.1",
+    "@solana/web3.js": "1.20.0",
+    "@types/uuid": "8.3.1",
+    "gsap": "3.7.0",
+    "jotai": "1.2.2",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sha256": "0.2.0",
+    "three": "0.129.0",
+    "uuid": "8.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@commitlint/cli": "12.1.4",
+    "@commitlint/config-conventional": "12.1.4",
+    "@storybook/addon-actions": "^6.3.1",
+    "@storybook/addon-essentials": "^6.3.1",
+    "@storybook/addon-links": "^6.3.1",
+    "@storybook/react": "^6.3.1",
+    "@types/node": "14.17.4",
+    "@types/react": "17.0.11",
+    "@types/react-dom": "17.0.8",
+    "@types/sha256": "0.2.0",
+    "@types/three": "^0.129.1",
+    "@typescript-eslint/eslint-plugin": "4.28.0",
+    "@typescript-eslint/parser": "4.28.0",
+    "babel-loader": "^8.2.2",
+    "commitizen": "4.2.4",
+    "cz-conventional-changelog": "3.3.0",
+    "eslint": "7.29.0",
+    "eslint-config-airbnb": "18.2.1",
+    "eslint-config-next": "11.0.1",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-import-resolver-typescript": "2.4.0",
+    "eslint-plugin-import": "2.23.4",
+    "eslint-plugin-jsx-a11y": "6.4.1",
+    "eslint-plugin-prettier": "3.4.0",
+    "eslint-plugin-react": "7.24.0",
+    "eslint-plugin-react-hooks": "4.2.0",
+    "lint-staged": "11.0.0",
+    "prettier": "2.3.1",
+    "typescript": "4.3.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}

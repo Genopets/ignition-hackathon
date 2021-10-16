@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="255px" height="254px" viewBox="-30 -20 255 254" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 1</title>
+    <defs>
+        <linearGradient x1="31.0652566%" y1="8.24072868%" x2="52.2985495%" y2="101.792118%" id="linearGradient-1">
+            <stop stop-color="#FFD800" offset="0%"></stop>
+            <stop stop-color="#8E00FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="POC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="POC12---Genopet-View" transform="translate(-619.000000, -424.000000)" stroke-width="1.30522744">
+            <g id="Genopet" transform="translate(405.000000, 13.000000)">
+                <g id="Group-4" transform="translate(19.000000, 0.000000)">
+                    <g id="Stats" transform="translate(0.000000, 46.000000)">
+                        <g id="Group-1" transform="translate(195.000000, 366.000000)">
+                            <ellipse id="Oval-Copy-4" stroke="#FFFFFF" opacity="0.200000003" cx="100.325733" cy="100.5" rx="99.6731192" ry="99.8473863"></ellipse>
+                            <path d="M49.0183154,186.089722 C64.3142149,195.544607 82.3354567,201 101.628664,201 C157.037037,201 201.954397,156.004617 201.954397,100.5 C201.954397,44.9953826 157.037037,0 101.628664,0" id="Path" stroke="url(#linearGradient-1)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

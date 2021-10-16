@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="214px" height="214px" viewBox="0 0 214 214" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pie-2021-04-16 07_11_42</title>
+    <defs>
+        <linearGradient x1="76.0003656%" y1="25.4300037%" x2="23.8448142%" y2="79.6140703%" id="linearGradient-1">
+            <stop stop-color="#FF0000" offset="0%"></stop>
+            <stop stop-color="#FF0062" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FF9500" offset="0%"></stop>
+            <stop stop-color="#FFF200" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="57.6744937%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#D500FF" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="19.3985276%" y1="33.11114%" x2="55.7363402%" y2="61.4515002%" id="linearGradient-4">
+            <stop stop-color="#00DAFF" offset="0%"></stop>
+            <stop stop-color="#00BFFF" offset="92.3292522%"></stop>
+            <stop stop-color="#00BDFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.920442%" y1="37.0631075%" x2="50%" y2="69.4444764%" id="linearGradient-5">
+            <stop stop-color="#00FFE6" offset="0%"></stop>
+            <stop stop-color="#00FF9A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10-copy" transform="translate(-191.000000, -268.000000)" fill-rule="nonzero">
+            <g id="Group-8" transform="translate(76.000000, 139.000000)">
+                <g id="pie-2021-04-16-07_11_42" transform="translate(116.000000, 130.000000)">
+                    <path d="M106,105.746455 L106,0 C136.428097,0 165.388859,13.0450819 185.51132,35.8150695 C205.633782,58.5850572 214.977211,88.883874 211.163559,119 L106,105.746455" id="Path" stroke="#FF0063" fill-opacity="0.5" fill="url(#linearGradient-1)"></path>
+                    <text id="22%" fill="#FF0063" font-family="OpticianSans-Regular, Optician Sans" font-size="14" font-weight="normal" line-spacing="25" letter-spacing="3">
+                        <tspan x="141" y="63">22%</tspan>
+                    </text>
+                    <path d="M106,106 L211,119.365517 C208.198795,141.708063 198.449725,162.583536 183.150057,179 L106,106" id="Path" stroke="#FFF100" fill-opacity="0.5" fill="url(#linearGradient-2)"></path>
+                    <text id="15%" fill="#FFF100" font-family="OpticianSans-Regular, Optician Sans" font-size="14" font-weight="normal" line-spacing="25" letter-spacing="3">
+                        <tspan x="154" y="130">15%</tspan>
+                    </text>
+                    <path d="M106,106 L44,20.2441986 C62.021125,7.0866252 83.7246644,0 106,0 L106,106" id="Path" stroke="#B700FF" fill-opacity="0.5" fill="url(#linearGradient-3)"></path>
+                    <path d="M106,106.109209 L5.19488512,139 C-8.99482039,95.1456119 6.54988143,47.1035024 43.6990128,20 L106,106.109209" id="Path" stroke="#00B4FF" fill-opacity="0.5" fill="url(#linearGradient-4)"></path>
+                    <path d="M105.765194,106 L183,178.560363 C157.359289,205.877014 119.207131,217.619337 82.6527443,209.444853 C46.098358,201.270368 16.5746824,174.394018 5,138.755066 L105.765194,106" id="Path" stroke="#05FCC1" fill-opacity="0.5" fill="url(#linearGradient-5)"></path>
+                    <text id="38%" fill="#00FFC8" font-family="OpticianSans-Regular, Optician Sans" font-size="14" font-weight="normal" line-spacing="25" letter-spacing="3">
+                        <tspan x="80" y="157">38%</tspan>
+                    </text>
+                    <text id="15%" fill="#00B4FF" font-family="OpticianSans-Regular, Optician Sans" font-size="14" font-weight="normal" line-spacing="25" letter-spacing="3">
+                        <tspan x="30" y="81">15%</tspan>
+                    </text>
+                    <text id="10%" fill="#AB00FF" font-family="OpticianSans-Regular, Optician Sans" font-size="14" font-weight="normal" line-spacing="25" letter-spacing="3">
+                        <tspan x="70" y="34">10%</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

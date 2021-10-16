@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="383px" height="174px" viewBox="0 0 383 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>H1</title>
+    <defs>
+        <linearGradient x1="0%" y1="49.3861312%" x2="74.3073111%" y2="50.2812014%" id="linearGradient-1">
+            <stop stop-color="#F081FF" offset="0%"></stop>
+            <stop stop-color="#FF0063" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.4545763%" y1="0%" x2="59.0157877%" y2="72.9040326%" id="linearGradient-2">
+            <stop stop-color="#F081FF" offset="0%"></stop>
+            <stop stop-color="#FF0063" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-3" font-family="Streamster" font-size="80" font-weight="normal">
+            <tspan x="133" y="92">pets</tspan>
+        </text>
+        <filter x="-76.5%" y="-22.6%" width="285.2%" height="145.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-copy-11" transform="translate(-35.000000, -551.000000)">
+            <g id="H1" transform="translate(35.000000, 568.000000)">
+                <text id="geno-copy" fill="#00FFC8" fill-rule="nonzero" opacity="0.200000003" font-family="mokotoglitchoutline, mokoto glitch outline" font-size="65" font-weight="normal" line-spacing="40" letter-spacing="24.375">
+                    <tspan x="0.66" y="62.39">geno</tspan>
+                </text>
+                <text id="geno" fill="url(#linearGradient-1)" fill-rule="nonzero" font-family="mokotoglitchmarkI, mokoto glitch mark I" font-size="70" font-weight="normal" line-spacing="40" letter-spacing="26.25">
+                    <tspan x="11" y="107">geno</tspan>
+                </text>
+                <text id="Pets-bg" font-family="Streamster" font-size="80" font-weight="normal" fill="#000000">
+                    <tspan x="129" y="89">pets</tspan>
+                </text>
+                <g id="Pets" fill-rule="nonzero">
+                    <use fill="#FF0063" fill-opacity="1" filter="url(#filter-4)" xlink:href="#text-3"></use>
+                    <use fill="url(#linearGradient-2)" xlink:href="#text-3"></use>
+                    <use fill="#FF0063" fill-opacity="1" xlink:href="#text-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

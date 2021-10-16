@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="408px" height="355px" viewBox="0 0 408 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path 3</title>
+    <defs>
+        <linearGradient x1="29.5122084%" y1="39.768397%" x2="127.090031%" y2="154.189553%" id="linearGradient-1">
+            <stop stop-color="#00FFE6" offset="0%"></stop>
+            <stop stop-color="#FFD800" offset="64.0108767%"></stop>
+            <stop stop-color="#FFFFFF" offset="95.7506998%"></stop>
+            <stop stop-color="#00FFC8" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="869 724.97761 1056 1042.33527 683.215124 1042.33527"></polygon>
+        <filter x="-8.3%" y="-9.8%" width="116.6%" height="119.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 1   0 0 0 0 0.786112325  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Marketing---MVP-Onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1desktop" transform="translate(-945.000000, -603.000000)">
+            <g id="Path-3" transform="translate(279.000000, -105.000000)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use stroke="url(#linearGradient-1)" stroke-width="1" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
