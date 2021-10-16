@@ -1,0 +1,7 @@
+::1 - - [16/Oct/2021:00:48:39 +0000] "POST /users/mint-nft HTTP/1.1" 200 2 "-" "PostmanRuntime/7.28.4"
+::1 - - [16/Oct/2021:02:37:39 +0000] "POST /users/mint-nft HTTP/1.1" - - "-" "PostmanRuntime/7.28.4"
+::1 - - [16/Oct/2021:02:49:40 +0000] "POST /users/mutate-nft HTTP/1.1" 200 2 "-" "PostmanRuntime/7.28.4"
+::1 - - [16/Oct/2021:02:50:34 +0000] "POST /users/mutate-nft HTTP/1.1" 200 2 "-" "PostmanRuntime/7.28.4"
+::1 - - [16/Oct/2021:02:51:56 +0000] "POST /users/mutate-nft HTTP/1.1" 200 2 "-" "PostmanRuntime/7.28.4"
+::1 - - [16/Oct/2021:02:53:10 +0000] "POST /users/mint-nft HTTP/1.1" 200 44 "-" "PostmanRuntime/7.28.4"
+::1 - - [16/Oct/2021:03:00:09 +0000] "POST /users/mutate-nft HTTP/1.1" 200 2 "-" "PostmanRuntime/7.28.4"
